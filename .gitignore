@@ -1,0 +1,27 @@
+# Apple and Xcode
+.DS_Store
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Secrets and signing
+*.mobileprovision
+*.p12
+*.cer
+*.key
+.env
+.env.*
+
+# Personal exports and media
+Private/
+JournalExports/
+*.jpeg
+*.jpg
+*.heic
+*.png
+*.zip
